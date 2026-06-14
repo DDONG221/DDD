@@ -1,0 +1,6 @@
+{
+  "name": "Chess Rooms",
+  "description": "A high-fidelity real-time chess room lobby where users can create and play chess games with custom settings, move highlights, clocks, and chat logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
